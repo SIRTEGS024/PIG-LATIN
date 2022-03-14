@@ -1,4 +1,4 @@
-# Animal Shelter Website
+# PIG LATIN TRANSLATOR
 By Metitiri Tega
 A simple website for Pig Latin Translation
 
